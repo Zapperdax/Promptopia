@@ -47,6 +47,7 @@ const EditPrompt = () => {
       setSubmitting(false);
     }
   };
+
   return (
     <Form
       type="Edit"
